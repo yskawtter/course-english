@@ -5,12 +5,16 @@ ele fazer (que no final vai mostrar qual a sua pontuação)
 
 
 
-#FrontEnd
+# FrontEnd
 No frontend eu utilizei a linguagem VUE para manipular o HTML, CSS e o JAVASCRIPT da página, o site está de maneira responsiva e os sites estão com cada rota devida
 
-#BancoDeDados
+# BancoDeDados
 O banco de dados utilizado foi o MongoDB
 No DB você pode alterar seu nome, email e alterar sua senha de forma dinamica... 
 
-#Backend
+# Backend
 Javascript e um pouco de Node.
+
+
+Segue a foto inicial do projeto
+![screencapture-localhost-8080-2023-05-05-14_27_07](https://user-images.githubusercontent.com/91097573/236526534-3d0c238c-8096-4077-a7c9-baaf9486d145.png)
